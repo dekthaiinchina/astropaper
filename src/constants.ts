@@ -11,19 +11,19 @@ import { SITE } from "@/config";
 export const SOCIALS = [
   {
     name: "Github",
-    href: "https://github.com/dekthaiinchina/astropaper",
+    href: "https://github.com/dekthaiinchina/",
     linkTitle: ` ${SITE.title} on Github`,
     icon: IconGitHub,
   },
   {
     name: "X",
-    href: "https://x.com/username",
+    href: "https://x.com/dekthaiinchina",
     linkTitle: `${SITE.title} on X`,
     icon: IconBrandX,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/username/",
+    href: "https://www.linkedin.com/in/dekthaiinchina/",
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: IconLinkedin,
   },
