@@ -3,34 +3,17 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://dekthaiinchina.com/).
+## Hey There! 👋
+**I'm Aum** - I'm a fullstack developer, game designer, web designer, film cinematographer, photography, music producer, content creator, and foreign people in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Game Development!
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## My Skills
+![SkillIcons](https://skillicons.dev/icons?i=cpp,cs,py,elixir,java,dart,lua,visualstudio,vscode,qt,sublime,angular,react,nextjs,vue,nuxtjs,mysql,docker,nodejs,npm,yarn,pnpm,unreal,unity,ae,pr,ai,ps,au,ableton&theme=light)
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&theme=transparent&count_private=true&hide_border=true)
 
-<div>
-  <img src="/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+## Profile Views
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/dekthaiinchina/astropaper).  
-Or you can even give any feedback via my [email](mailto:support@dekthaiinchina.com).
+## My Teams
+![My Teams](https://contrib.rocks/image?repo=tencent/tdesign-react)
